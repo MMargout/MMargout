@@ -7,10 +7,10 @@
   <table align="center" width="100%" border="0">
     <tr>
       <td>
-        <a href="https://github.com/Ahosall">
+        <a href="https://github.com/MMargout">
           <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=MMargout&include_all_commits=false&count_private=true&show_icons=true&line_height=20text_color=D3D3D3&bg_color=0d1117&hide_border=true&custom_title=Estatísticas%20do%20Github&locale=pt-br"
-            alt="AhosAll Github Stats" />
+            alt="MMargout Github Stats" />
         </a>
       </td>
       <td>
